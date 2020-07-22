@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip calculator*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tip calculator** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Shubhu Shahade**
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
